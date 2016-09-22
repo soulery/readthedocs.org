@@ -11,7 +11,7 @@ If you are already using Sphinx or Markdown for your docs, skip ahead to
 Write Your Docs
 ---------------
 
-You have two options for formatting your documentation:
+You have 2 options for formatting your documentation:
 
 * :ref:`in-rst`
 * :ref:`in-markdown`
